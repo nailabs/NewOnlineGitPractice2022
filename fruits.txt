@@ -6,3 +6,4 @@ apple
 
 
 //close properly, swap files hanging area big problem
+pear
