@@ -1,3 +1,7 @@
 black
+<<<<<<< HEAD
 red
 
+=======
+pink
+>>>>>>> 4f3e8aa7bedec8a5bc34da333c79986de4b7f703
