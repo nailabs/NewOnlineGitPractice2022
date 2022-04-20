@@ -1,6 +1,6 @@
 package Tests;
 
-public class GoogleTest {
+public class GoogleTests {
 
     public static void main(String[] args) {
 //Some cooments to pull
