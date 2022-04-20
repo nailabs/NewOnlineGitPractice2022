@@ -5,6 +5,10 @@ BMW 3
 BMW X6
 Mercedes 5500
 Kia Optima
+<<<<<<< HEAD
 Honda Civic
 Subaru WRX STI
 Range Rover Velar
+=======
+Lexus
+>>>>>>> 586b3454b318e5ed67e3aac48903271a2f90bc7e
